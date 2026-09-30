@@ -1,0 +1,36 @@
+* {
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+
+
+.conteiner-cima {
+    display: flex;
+    height:140vh;
+    background-color: rgb(2, 15, 51);
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    gap: 150px;
+    flex-wrap: wrap;
+    text-align: center;
+
+}
+
+
+
+
+.item {
+    width: 250px;
+    height: 300px;
+    background-color: rgb(255, 255, 255);
+    display: flex;
+    }
+
+h1 { 
+    text-align: center;
+    color: rgb(0, 0, 0);
+}
+
